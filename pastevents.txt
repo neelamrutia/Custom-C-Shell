@@ -1,0 +1,15 @@
+sleep 5 ; echo neel ; execute ; 1 ; sleep ; 4
+sleep 5 ; echo neel;  sleep 4
+sleep 4 ; sleep 5 ; echo neel; 
+sleep 3  ; sleep 5 ; echo neel ; 
+sleep 5 ; echo neel ;  sleep 1
+sleep 1  ; sleep 5 ; echo neel ;  sleep 1 ;
+sleep 5 ; echo neel ;  sleep 3
+sleep 4  ; sleep 5 ; echo neel ;  sleep 3
+seek -d -f neil
+seek -d -f nenene
+seek -d nnenene
+sleep 4  ; seek -d -f neil
+sleep 5 ; echo neel ;  sleep 3 ;  sleep 3
+sleep 4  ; sleep 5 ; echo neel ;  sleep 3 ;  warp neel
+peek

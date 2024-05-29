@@ -1,0 +1,1 @@
+void prompt1(char *path,char *str);

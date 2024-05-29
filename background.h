@@ -1,0 +1,1 @@
+void background(char *token,char *path_text);
